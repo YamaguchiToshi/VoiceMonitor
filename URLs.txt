@@ -1,0 +1,8 @@
+http://www.isopro91.com/entry/2015/06/03/make/robot/arduino/potentiometer
+
+https://learn.sparkfun.com/tutorials/electret-mic-breakout-board-hookup-guide?_ga=1.239527819.926858641.1470020364
+
+https://learn.sparkfun.com/tutorials/electret-mic-breakout-board-hookup-guide?_ga=1.210800213.1541903577.1488340209#example-circuit-and-code
+
+https://www.switch-science.com/catalog/2823/
+
